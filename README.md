@@ -85,7 +85,7 @@ Aplikasi Android sederhana untuk membantu mengingat jadwal minum **obat** dan **
 | **NIM** | 2459201053 |
 | **Kelas** | 5A |
 | **Mata Kuliah** | Pemrograman Mobile |
-| **Kampus** | UNIVERSITAS MUHAMMADIYAH KOTABUMI |
+| **Kampus** | Universitas Muhammadiyah Kotabumi |
 
 ---
 
